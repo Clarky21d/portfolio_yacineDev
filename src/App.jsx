@@ -26,7 +26,7 @@ function App() {
         viewport={{ once: true }}
         transition={{ duration: 0.6 }}
       >
-        <p>&copy;2025 Douache Yacine. All rights reserved.</p></motion.footer>
+        <p>&copy;2025 Douache Yacine. AI student</p></motion.footer>
 
     </div>
   )
